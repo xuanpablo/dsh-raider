@@ -21,4 +21,6 @@ experiments/m0-5/dev*.log
 .npmrc
 .dbg/
 
-.vitepress
+# VitePress 构建产物与缓存不入库；config / theme 源码必须提交
+**/.vitepress/cache
+**/.vitepress/dist
