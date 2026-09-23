@@ -33,3 +33,15 @@ features:
   - title: 完全自包含
     details: Server 是 Hono Worker + D1 + R2 + Durable Object 的完整后端，可整套部署到你自己的 Cloudflare 账号。
 ---
+
+## 应用截图
+
+![应用截图-公告](/screenshots/1-announcement.png)
+
+![应用截图-全员](/screenshots/2-members.png)
+
+![应用截图-菜单](/screenshots/3-channel-menu.png)
+
+![应用截图-角色](/screenshots/4-roles.png)
+
+![应用截图-权限](/screenshots/5-permissions.png)
